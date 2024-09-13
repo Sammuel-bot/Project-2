@@ -1,6 +1,4 @@
-# AGYAPONG SAMUEL BAFFOUR
-# 10988638
-# BMEN
+# AGYAPONG SAMUEL
 import qrcode
 import PySimpleGUI as sg 
 
